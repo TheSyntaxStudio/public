@@ -1,6 +1,6 @@
 # public
 
-## Icons for strutura 
+## Icons for Structura 
 
 - icons/delete.svg => "Icon made by [Freepik](www.flaticon.com)"
 
