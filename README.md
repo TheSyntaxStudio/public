@@ -6,4 +6,8 @@
 
 - icons/alert-save.svg => "Icon made by [Freepik](www.flaticon.com)" 
 
+- icon/people.svg => "Icon made by [Freepik](www.flaticon.com)" 
+
 - icons/loading.svg => "Icon made by [Gaurav Janiyani](https://github.com/gaurav-janiyani)"
+
+
